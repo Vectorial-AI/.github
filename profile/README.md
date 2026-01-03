@@ -1,6 +1,6 @@
 # <img src="https://www.runvectorial.com/favicon.svg" alt="Image description" width="30" height="30"> Vectorial AI - Product Development, Redefined
 
-Vectorial AI is on a mission to create state-of-the-Art synthetic users when benchmarked against recent behavior foundation models and standard LLMs and provide a comprehensive platform to engage with the synthetic population.
+Vectorial AI is on a mission to create state-of-the-art synthetic users, model the entire human population in synthetic form and provide a comprehensive platform to engage with the synthetic population.
 
 ## 💬 **What Our Users Say**
 
