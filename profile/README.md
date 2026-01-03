@@ -1,30 +1,6 @@
-# <img src="https://www.runvectorial.com/_astro/vectorial_logo_.DxqaXA-__17546U.svg" alt="Image description" width="30" height="30"> Vectorial AI - Product Development, Redefined
+# <img src="[https://www.runvectorial.com/_astro/vectorial_logo_.DxqaXA-__17546U.svg](https://www.runvectorial.com/favicon.svg)" alt="Image description" width="30" height="30"> Vectorial AI - Product Development, Redefined
 
-Vectorial AI provides a comprehensive suite of AI-powered tools and services designed to help businesses streamline their product development process, from discovery to launch.
-
----
-
-## 🚀 **Bring Autonomy to Product Development**
-
-### **Our Vision**
-Our Foundational Intelligence creates a collective consciousness of your product, company, and users to help scale and streamline your product development lifecycle.
-
----
-
-## 🌟 **Key Features**
-- **Increased Product Velocity:** Ship features faster with AI-powered insights.
-- **Strategic Focus:** Automate routine tasks and free up time for innovation.
-- **Cost Savings:** Optimize operational costs with intelligent automation.
-- **Team Empowerment:** Boost team performance with AI-driven decision-making.
-
----
-
-## 📈 **Product Development Lifecycle**
-Vectorial AI integrates seamlessly across different stages of product development to create a unified and efficient workflow.
-
-Learn more about how we enhance your product lifecycle on our [Use Cases page](https://www.runvectorial.com/use-cases).
-
----
+Vectorial AI is on a mission to create state-of-the-Art synthetic users when benchmarked against recent behavior foundation models and standard LLMs and provide a comprehensive platform to engage with the synthetic population.
 
 ## 💬 **What Our Users Say**
 
