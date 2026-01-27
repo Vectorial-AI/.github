@@ -16,14 +16,6 @@ Vectorial AI is on a mission to create state-of-the-art synthetic users, model t
 
 ---
 
-## 🛠️ **Contributors**
-A big thank you to everyone who has contributed to this project:
-- [@vishwaspuri](https://github.com/vishwaspuri)
-- [@dastan92](https://github.com/dastan92)
-- [@harvygr8](https://github.com/harvygr8)
-- [@Pushkaraaa](https://github.com/Pushkaraaa)
-- [@Taranveer](https://github.com/Taranveer)
-
 ---
 
 ## 🎯 **Ready to Get Started?**
